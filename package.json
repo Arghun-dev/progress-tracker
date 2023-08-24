@@ -35,7 +35,7 @@
     "@nx/react": "16.6.0",
     "@nx/webpack": "16.6.0",
     "@nx/workspace": "16.6.0",
-    "@swc/plugin-emotion": "^2.5.67",
+    "@swc/plugin-emotion": "^2.5.72",
     "@testing-library/react": "14.0.0",
     "@types/jest": "^29.4.0",
     "@types/node": "18.14.2",
