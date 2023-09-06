@@ -2323,10 +2323,10 @@
   dependencies:
     tslib "^2.4.0"
 
-"@swc/plugin-emotion@^2.5.67":
-  version "2.5.70"
-  resolved "https://registry.yarnpkg.com/@swc/plugin-emotion/-/plugin-emotion-2.5.70.tgz#989698220282e8ff507ecdbe87d4bde99943e637"
-  integrity sha512-n7hk1LfJr13N6ncGltp2y8a7nfCuFqhrWVSjJW5ZjsWLQ/mVsEqrpwrKt5nOYPrmMwXfLktSi61CjWfQG5UBwA==
+"@swc/plugin-emotion@^2.5.76":
+  version "2.5.76"
+  resolved "https://registry.yarnpkg.com/@swc/plugin-emotion/-/plugin-emotion-2.5.76.tgz#b5be4d1f3f715553e0ed2fbe04ec7b86bf03b152"
+  integrity sha512-r+LVg7vit9fGUlJjRUX+mwW2Jw9TWYfFCttH6L+l6AxkH9XsOEOWajwJ7/QQu3o9lI/rurjweJPbgTxVCygfNg==
 
 "@testing-library/dom@^9.0.0":
   version "9.3.1"
